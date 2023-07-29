@@ -1,4 +1,4 @@
-﻿altgraph==0.17
+altgraph==0.17
 anyio==3.6.1
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
@@ -54,8 +54,6 @@ jupyterlab==3.4.5
 jupyterlab-pygments==0.1.2
 jupyterlab-server==2.15.0
 jupyterlab-widgets==1.1.1
-Levenshtein==0.20.9
-Levenshtein-search==1.4.5
 lxml==4.9.1
 MarkupSafe==2.1.1
 matplotlib-inline==0.1.3
