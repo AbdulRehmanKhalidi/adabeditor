@@ -129,4 +129,5 @@ Werkzeug
 widgetsnbextension
 wsproto
 zipp
+pipdeptree
 gunicorn
